@@ -11,5 +11,5 @@ The project needs data handled in .env file. the .env file is not publicly avail
 1. cd into /backend folder -> run:
 ### `npm run dev`
 
-2. Open new terminal and cd intp /frontend folder -> run:
+2. Open new terminal and cd into /frontend folder -> run:
 ### `npm start`
